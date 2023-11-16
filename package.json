@@ -1,0 +1,22 @@
+{
+  "name": "simple-image-compressor",
+  "version": "1.0.0",
+  "description": "Simple image compressor developed using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-077/Javascript-Image-Compressor.git"
+  },
+  "keywords": [
+    "Image-Compression"
+  ],
+  "author": "Amit Kamat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit-077/Javascript-Image-Compressor/issues"
+  },
+  "homepage": "https://github.com/amit-077/Javascript-Image-Compressor#readme"
+}
