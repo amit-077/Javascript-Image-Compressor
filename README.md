@@ -25,6 +25,8 @@ async function compressImage(file, compressionRatio) {
 npm install easy-image-compress
 
 const compressImage = require('easy-image-compress');
+OR
+import compressImage from 'easy-image-compress'
 ```
 
 ## Below is an example
